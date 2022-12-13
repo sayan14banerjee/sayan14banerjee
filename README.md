@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - My Email Id - sbsocial7@gmail.com
+- My LinkedIn link- https://www.linkedin.com/in/sayan-banerjee-129ba220a/
 - If you find some bug in my code then please alert me. It will be help for me and other who want to learn my projects.
 - 
 
