@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sayan14banerjee
-- 👀 I’m interested in automation project and machine learning 
-- 🌱 I’m currently learning Ardiono projects
+- 👀 I’m interested in AI and machine learning 
+- 🌱 I’m currently learning Data analysis and ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... by mail or linkedin
 - My Email Id - sbsocial7@gmail.com
 - My LinkedIn link- https://www.linkedin.com/in/sayan14baerjee/
 - If you find some bug in my code then please alert me. It will be help for me and other who want to learn my projects.
