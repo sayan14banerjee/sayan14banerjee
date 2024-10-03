@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analysis and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by mail or linkedin
-- My Email Id - sbsocial7@gmail.com
+- My Email Id - banerjeesayan554@gmail.com
 - My LinkedIn link- https://www.linkedin.com/in/sayan14banerjee/
 - If you find some bug in my code then please alert me. It will be help for me and other who want to learn my projects.
 - 
