@@ -16,18 +16,6 @@
 
 ---
 
-## 💻 Backend Focus
-
-- 🛠️ Building robust, serverless backend systems using:
-  - **Node.js** for developing scalable APIs
-  - **AWS Lambda** for serverless compute
-  - **DynamoDB** for NoSQL data storage
-  - **Serverless Framework** for infrastructure management
-- 🔄 Experience working with **API gateways**, **authentication mechanisms**, and **workspace data systems**
-- ⚙️ Learning **Terraform** and cloud deployment strategies
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
